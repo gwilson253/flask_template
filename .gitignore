@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite databases
+*.sqlite
+
+# Virtual environment
+/venv
+
+# Installer logs
+pip-log.txt
